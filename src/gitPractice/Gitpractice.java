@@ -3,8 +3,12 @@ package gitPractice;
 public class Gitpractice {
 
 	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
-System.out.println("こんにちわ");
+		
+		String name;
+		name = "yuta";
+		
+		
+System.out.println("こんばんわ" + name + "です。");
 	}
 
 }
